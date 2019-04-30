@@ -57,9 +57,9 @@ If you want to see a nice poster which summarizes our findings, you can find it 
 
 ### Guide to Important Source Files
 
-**[Gpt_2_GOT](src/custom_scripts/Gpt_2_GOT.ipynb)**: Training model, saving model and generating samples on Game of Thrones dataset
-**[Gpt_2_Essays](src/custom_scripts/Gpt_2_Essays.ipynb)**: Training model, saving model and generating samples on Essays dataset
-**[Gpt_2_Short_Stories](src/custom_scripts/Gpt_2_Short_Stories.ipynb)**: Training model, saving model and generating samples on ROC Stories dataset
-**[Gpt_2_Evaluator](src/custom_scripts/Gpt_2_Evaluator.ipynb)**: All code for evaluating each of the models
-**[TextGeneration](src/custom_scripts/TextGeneration.ipynb)**: Character level LSTM for generating text
-**[WordLevelRNNForShortStories](src/custom_scripts/WordLevelRNNForShortStories.ipynb)**: Word level RNN for generating short stories
+* **[Gpt_2_GOT](src/custom_scripts/Gpt_2_GOT.ipynb)**: Training model, saving model and generating samples on Game of Thrones dataset
+* **[Gpt_2_Essays](src/custom_scripts/Gpt_2_Essays.ipynb)**: Training model, saving model and generating samples on Essays dataset
+* **[Gpt_2_Short_Stories](src/custom_scripts/Gpt_2_Short_Stories.ipynb)**: Training model, saving model and generating samples on ROC Stories dataset
+* **[Gpt_2_Evaluator](src/custom_scripts/Gpt_2_Evaluator.ipynb)**: All code for evaluating each of the models
+* **[TextGeneration](src/custom_scripts/TextGeneration.ipynb)**: Character level LSTM for generating text
+* **[WordLevelRNNForShortStories](src/custom_scripts/WordLevelRNNForShortStories.ipynb)**: Word level RNN for generating short stories
