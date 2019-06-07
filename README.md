@@ -63,3 +63,7 @@ If you want to see a nice poster which summarizes our findings, you can find it 
 * **[Gpt_2_Evaluator](src/custom_scripts/Gpt_2_Evaluator.ipynb)**: All code for evaluating each of the models
 * **[TextGeneration](src/custom_scripts/TextGeneration.ipynb)**: Character level LSTM for generating text
 * **[WordLevelRNNForShortStories](src/custom_scripts/WordLevelRNNForShortStories.ipynb)**: Word level RNN for generating short stories
+
+### Final Report
+
+You can read a more comprehesive report on our methodology and findings [here](report/report.pdf)
